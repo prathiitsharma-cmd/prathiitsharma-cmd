@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://prathiitsharma-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-prathiitsharma--cmd.github.io-22d3ee?style=for-the-badge&labelColor=05070d" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/prathit-sharma"><img src="https://img.shields.io/badge/LinkedIn-prathit--sharma-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070d" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/prathit-sharma-4b7896333"><img src="https://img.shields.io/badge/LinkedIn-Prathit%20Sharma-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070d" alt="LinkedIn" /></a>
   <a href="mailto:prathiitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-fbbf24?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070d" alt="Email" /></a>
 </p>
 
