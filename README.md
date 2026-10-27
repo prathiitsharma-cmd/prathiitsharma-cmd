@@ -90,8 +90,8 @@ I'm a third-year **Mechanical Engineering** student at the **Indian Institute of
 ### 🏅 Leadership
 
 - **Founding President**, 180 Degrees Consulting IIPE: pro-bono strategy work for NGOs
-- **Social Welfare Secretary**, NSS IIPE · **Co-founder**, Sattva Quizzing Club
-- **National Finalist**, Socionnovate · **Finalist**, SpringFest Quiz
+- **Social Welfare Secretary**, IIPE & **NSS Student In-charge** (2025–26)
+- **Co-founder**, Sattva Quizzing Club, IIPE · **National Finalist**, Socionnovate
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathiitsharma-cmd&label=Profile%20views&color=22d3ee&style=flat-square" alt="Profile views" />
